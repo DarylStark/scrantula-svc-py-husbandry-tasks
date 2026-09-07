@@ -1,2 +1,6 @@
+"""Main package for the Husbandry Taks application."""
+
+
 def hello() -> str:
-    return "Hello from husbandry-tasks!"
+    """Hello function."""
+    return 'Hello from husbandry-tasks!'
